@@ -1,7 +1,9 @@
 # MM_trace
 
 # Using CHESSCC or PEANO?
-Change the value of ENABLE_CHESSCC in Makefile.
+To select the environment, modify the `ENABLE_CHESSCC` flag in the **Makefile**:
+- Set `ENABLE_CHESSCC` to `1` to enable **CHESSCC**.
+- Set it to `0` to use **PEANO**.
 
 # Kernel
 

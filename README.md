@@ -1,6 +1,6 @@
 # MM_trace
 
-# do you want chesscc?
+# Using CHESSCC or PEANO?
 Change the value of ENABLE_CHESSCC in Makefile.
 
 # Kernel
